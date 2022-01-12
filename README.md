@@ -81,7 +81,7 @@ Initial design of the webapplication is shown below:
 
 ## 6. Results
 
-The results are shown as links and interactive elements on the app.  <a> https://happiness-trial.herokuapp.com </a>
+The results are shown as links and interactive elements on the app.  <a>https://happy-nation.herokuapp.com/</a>
 We can also note that the countries with high Life Ladder score through out the years are the scandinavian countries, and the countries with low Life Ladder are some African countries and Middle Eastan countries. 
 
 ### Methodology
