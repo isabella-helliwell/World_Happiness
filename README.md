@@ -1,16 +1,11 @@
 # World Happiness
 
-
-**Life_ladder_by_country**
-https://worldhappiness.report/ed/2021/#appendices-and-data
-![Life_ladder](https://user-images.githubusercontent.com/85839235/140621693-465df65b-a2e8-49fe-907c-1e273fd1a5e6.png)
-
 ## Project Overview
 Perform statistical analysis with the Life Ladder metrics that meaure perceived satisfaction and quality of life between the years 2008-2020.
 
 ## Links
 * Google Slides presentation: https://docs.google.com/presentation/d/1-TAnhkwUNM6IS-IQDcpyB-aw7qAN2UXNCbUCFCnAhDA/edit#slide=id.p
-* Heroku App (dashboard): https://happiness-trial.herokuapp.com/
+* Heroku App (dashboard): https://happy-nation.herokuapp.com/
 * Tableau Story: https://public.tableau.com/app/profile/isabella.helliwell/viz/Book2_16380679399500/Overview
 
 ## 1. Machine Learning and Visualization Overview:
