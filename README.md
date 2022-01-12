@@ -1,7 +1,7 @@
 # World Happiness
 
 ## Project Overview
-To use dataset provied in <a> https://worldhappiness.report </a> for years 2008-2020 to create a machine learning algorithm that can predict one's happiness score based on the criterias given in the report. 
+To use dataset provided in <a> https://worldhappiness.report </a> for years 2008-2020 to create a machine learning algorithm that can predict one's happiness score based on the criterias given in the report. 
 Furthermore, a website is created to showcase the machine learning algorithm and various plots.
 
 ## Links
