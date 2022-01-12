@@ -1,7 +1,8 @@
 # World Happiness
 
 ## Project Overview
-Perform statistical analysis with the Life Ladder metrics that meaure perceived satisfaction and quality of life between the years 2008-2020.
+To use dataset provied in <a> https://worldhappiness.report </a> for years 2008-2020 to create a machine learning algorithm that can predict one's happiness score based on the criterias given in the report. 
+Furthermore, a website is created to showcase the machine learning algorithm and various plots.
 
 ## Links
 * Google Slides presentation: https://docs.google.com/presentation/d/1-TAnhkwUNM6IS-IQDcpyB-aw7qAN2UXNCbUCFCnAhDA/edit#slide=id.p
